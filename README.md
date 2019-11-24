@@ -88,7 +88,7 @@ Benjamin's CodePlayground
 + [#093 Restore IP Addresses]
 + 
 # k sums
-+ [#001 Two Sum]
++ [#001 Two Sum][https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt001.md]
 + [#015 3Sum]
 + [#016 3Sum Closest]
 + [#018 4Sum]
@@ -150,3 +150,4 @@ Benjamin's CodePlayground
 + [#168 Excel Sheet Column Title]
 + [#169 Majority Element]   
 + [#171 Excel Sheet Column Number]
++ [#173 Binary Search Tree Iterator]
