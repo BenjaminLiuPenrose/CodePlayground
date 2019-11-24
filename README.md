@@ -4,11 +4,11 @@ Benjamin's CodePlayground
 #<center>table of contents</center>
 
 # List, two pointers
-+ [#019 Remove Nth Node From End of List]
-+ [#021 Merge Two Sorted Lists]
-+ [#024 Swap Nodes in Pairs]
-+ [#082 Remove Duplicates from Sorted List II]
-+ [#083 Remove Duplicates from Sorted List]
++ [#019 Remove Nth Node From End of List](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt019.md)
++ [#021 Merge Two Sorted Lists](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt021.md)
++ [#024 Swap Nodes in Pairs](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt024.md)
++ [#082 Remove Duplicates from Sorted List II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt082.md)
++ [#083 Remove Duplicates from Sorted List](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt083.md)
 + [#086 Partition List]
 + [#092 Reverse Linked List II]
 + [#138 Copy List with Random Pointer]
@@ -88,10 +88,10 @@ Benjamin's CodePlayground
 + [#093 Restore IP Addresses]
 + 
 # k sums
-+ [#001 Two Sum][https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt001.md]
-+ [#015 3Sum]
-+ [#016 3Sum Closest]
-+ [#018 4Sum]
++ [#001 Two Sum](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt001.md)
++ [#015 3Sum](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt003.md)
++ [#016 3Sum Closest](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt016.md)
++ [#018 4Sum](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt018.md)
 
 # max sum
 + [#053 Maximum Subarray]
