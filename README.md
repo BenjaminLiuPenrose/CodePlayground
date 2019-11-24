@@ -9,83 +9,83 @@ Benjamin's CodePlayground
 + [#024 Swap Nodes in Pairs](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt024.md)
 + [#082 Remove Duplicates from Sorted List II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt082.md)
 + [#083 Remove Duplicates from Sorted List](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt083.md)
-+ [#086 Partition List]
-+ [#092 Reverse Linked List II]
-+ [#138 Copy List with Random Pointer]
-+ [#141 Linked List Cycle]
-+ [#142 Linked List Cycle II]
-+ [#143 Reorder List]
-+ [#147 Insertion Sort List]
-+ [#148 Sort List]
-+ [#160 Intersection of Two Linked Lists] 
++ [#086 Partition List](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt086.md)
++ [#092 Reverse Linked List II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt092.md)
++ [#138 Copy List with Random Pointer](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt138.md)
++ [#141 Linked List Cycle](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt141.md)
++ [#142 Linked List Cycle II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt142.md)
++ [#143 Reorder List](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt143.md)
++ [#147 Insertion Sort List](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt147.md)
++ [#148 Sort List](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt148.md)
++ [#160 Intersection of Two Linked Lists](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt160.md) 
 + 
 # Array, sort, search, greedy, divide and conquer
-+ [#004 Median of Two Sorted Arrays]
-+ [#005 Longest Palindromic Substring]
-+ [#006 ZigZag Conversion]
-+ [#007 Reverse Integer]
-+ [#014 Longest Common Prefix]
-+ [#026 Remove Duplicates from Sorted Array]
-+ [#033 Search in Rotated Sorted Array]
-+ [#034 Find First and Last Position of Element in Sorted Array]
-+ [#035 Search Insert Position]
-+ [#036 Valid Sudoku]
-+ [#048 Rotate Image]
-+ [#054 Spiral Matrix]
-+ [#059 Spiral Matrix II]
-+ [#073 Set Matrix Zeroes]
-+ [#074 Search a 2D Matrix]
-+ [#081 Search in Rotated Sorted Array II]
-+ [#088 Merge Sorted Array]
-+ [#151 Reverse Words in a String]
-+ [#153 Find Minimum in Rotated Sorted Array]
-+ [#154 Find Minimum in Rotated Sorted Array II]
++ [#004 Median of Two Sorted Arrays](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt004.md)
++ [#005 Longest Palindromic Substring](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt005.md)
++ [#006 ZigZag Conversion](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt006.md)
++ [#007 Reverse Integer](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt007.md)
++ [#014 Longest Common Prefix](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt014.md)
++ [#026 Remove Duplicates from Sorted Array](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt028.md)
++ [#033 Search in Rotated Sorted Array](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt033.md)
++ [#034 Find First and Last Position of Element in Sorted Array](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt034.md)
++ [#035 Search Insert Position](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt035.md)
++ [#036 Valid Sudoku](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt036.md)
++ [#048 Rotate Image](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt048.md)
++ [#054 Spiral Matrix](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt054.md)
++ [#059 Spiral Matrix II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt059.md)
++ [#073 Set Matrix Zeroes](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt073.md)
++ [#074 Search a 2D Matrix](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt074.md)
++ [#081 Search in Rotated Sorted Array II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt081.md)
++ [#088 Merge Sorted Array](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt088.md)
++ [#151 Reverse Words in a String](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt151.md)
++ [#153 Find Minimum in Rotated Sorted Array](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt153.md)
++ [#154 Find Minimum in Rotated Sorted Array II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt154.md)
 
-+ 
+ 
 # Hash Table
-+ [#146 LRU Cache]
-+ 
-# Graph, DFS, BFS
-+ [#094 Binary Tree Inorder Traversal]
-+ [#095 Unique Binary Search Trees II]
-+ [#096 Unique Binary Search Trees]
-+ [#098 Validate Binary Search Tree]
-+ [#100 Same Tree]  
-+ [#101 Symmetric Tree]
-+ [#102 Binary Tree Level Order Traversal]
-+ [#103 Binary Tree Zigzag Level Order Traversal]
-+ [#104 Maximum Depth of Binary Tree]
-+ [#105 Construct Binary Tree from Preorder and Inorder Traversal]
-+ [#106 Construct Binary Tree from Inorder and Postorder Traversal]
-+ [#107 Binary Tree Level Order Traversal II]
-+ [#108 Convert Sorted Array to Binary Search Tree]
-+ [#109 Convert Sorted List to Binary Search Tree]
-+ [#110 Balanced Binary Tree]
-+ [#111 Minimum Depth of Binary Tree]
-+ [#112 Path Sum]
-+ [#113 Path Sum II]
-+ [#114 Flatten Binary Tree to Linked List]
-+ [#116 Populating Next Right Pointers in Each Node]
-+ [#117 Populating Next Right Pointers in Each Node II]
-+ [#127 Word Ladder]
-+ [#129 Sum Root to Leaf Numbers]
-+ [#144 Binary Tree Preorder Traversal]
-+ [#145 Binary Tree Postorder Traversal]
-+ [#133 Clone Graph]
-+ [#162 Find Peak Element]  
++ [#146 LRU Cache](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt146.md)
 
-+ 
+# Graph, DFS, BFS
++ [#094 Binary Tree Inorder Traversal](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt094.md)
++ [#095 Unique Binary Search Trees II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt095.md)
++ [#096 Unique Binary Search Trees](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt096.md)
++ [#098 Validate Binary Search Tree](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt098.md)
++ [#100 Same Tree](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt100.md)
++ [#101 Symmetric Tree](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt101.md)
++ [#102 Binary Tree Level Order Traversal](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt102.md)
++ [#103 Binary Tree Zigzag Level Order Traversal](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt103.md)
++ [#104 Maximum Depth of Binary Tree](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt104.md)
++ [#105 Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt105.md)
++ [#106 Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt106.md)
++ [#107 Binary Tree Level Order Traversal II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt107.md)
++ [#108 Convert Sorted Array to Binary Search Tree](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt108.md)
++ [#109 Convert Sorted List to Binary Search Tree](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt109.md)
++ [#110 Balanced Binary Tree](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt110.md)
++ [#111 Minimum Depth of Binary Tree](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt111.md)
++ [#112 Path Sum](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt112.md)
++ [#113 Path Sum II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt113.md)
++ [#114 Flatten Binary Tree to Linked List](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt114.md)
++ [#116 Populating Next Right Pointers in Each Node](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt116.md)
++ [#117 Populating Next Right Pointers in Each Node II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt117.md)
++ [#127 Word Ladder](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt127.md)
++ [#129 Sum Root to Leaf Numbers](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt001.md)
++ [#144 Binary Tree Preorder Traversal](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt144.md)
++ [#145 Binary Tree Postorder Traversal](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt145.md)
++ [#133 Clone Graph](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt133.md)
++ [#162 Find Peak Element](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt162.md)
+
+
 # Combinations and Permutations
-+ [#017 Letter Combinations of a Phone Number]
-+ [#031 Next Permutation]
-+ [#039 Combination Sum]
-+ [#040 Combination Sum II]
-+ [#046 Permutations]
-+ [#047 Permutations II]
-+ [#049 Group Anagrams]
-+ [#077 Combinations]
-+ [#091 Decode Ways]
-+ [#093 Restore IP Addresses]
++ [#017 Letter Combinations of a Phone Number](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt017.md)
++ [#031 Next Permutation](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt031.md)
++ [#039 Combination Sum](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt039.md)
++ [#040 Combination Sum II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt040.md)
++ [#046 Permutations](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt046.md)
++ [#047 Permutations II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt0047.md)
++ [#049 Group Anagrams](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt049.md)
++ [#077 Combinations](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt077.md)
++ [#091 Decode Ways](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt091.md)
++ [#093 Restore IP Addresses](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt093.md)
 + 
 # k sums
 + [#001 Two Sum](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt001.md)
@@ -94,60 +94,60 @@ Benjamin's CodePlayground
 + [#018 4Sum](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt018.md)
 
 # max sum
-+ [#053 Maximum Subarray]
-+ [#121 Best Time to Buy and Sell Stock]
-+ [#122 Best Time to Buy and Sell Stock II]
-+ [#152 Maximum Product Subarray]
++ [#053 Maximum Subarray](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt053.md)
++ [#121 Best Time to Buy and Sell Stock](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt121.md)
++ [#122 Best Time to Buy and Sell Stock II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt122.md)
++ [#152 Maximum Product Subarray](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt152.md)
 + 
 # Dynamic Programming
-+ [#011 Container With Most Water]
-+ [#064 Minimum Path Sum]
-+ [#070 Climbing Stairs]
++ [#011 Container With Most Water](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt011.md)
++ [#064 Minimum Path Sum](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt064.md)
++ [#070 Climbing Stairs](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt070.md)
 
 # Binary and Decimal
-+ [#002 Add Two Numbers]
-+ [#008 String to Integer (atoi)]
-+ [#009 Palindrome Number]
-+ [#012 Integer to Roman]
-+ [#013 Roman to Integer]
-+ [#029 Divide Two Integers]
-+ [#043 Multiply Strings]
-+ [#050 Pow(x, n)] 
-+ [#066 Plus One]
-+ [#067 Add Binary]
-+ [#172 Factorial Trailing Zeroes]  
++ [#002 Add Two Numbers](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt002.md)
++ [#008 String to Integer (atoi)](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt008.md)
++ [#009 Palindrome Number](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt009.md)
++ [#012 Integer to Roman](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt012.md)
++ [#013 Roman to Integer](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt013.md)
++ [#029 Divide Two Integers](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt029.md)
++ [#043 Multiply Strings](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt043.md)
++ [#050 Pow(x, n)](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt050.md)
++ [#066 Plus One](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt066.md)
++ [#067 Add Binary](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt067.md)
++ [#172 Factorial Trailing Zeroes](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt172.md)  
 
 
 
+# Other
++ [#003 Longest Substring Without Repeating Characters](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt003.md)
 
-+ [#003 Longest Substring Without Repeating Characters]
++ [#020 Valid Parentheses](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt020.md)
 
-+ [#020 Valid Parentheses]
-
-+ [#022 Generate Parentheses]
++ [#022 Generate Parentheses](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt022.md)
 
 
-+ [#027 Remove Element]
-+ [#028 Implement strStr()]
++ [#027 Remove Element](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt027.md)
++ [#028 Implement strStr()](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt028.md)
 
-+ [#089 Gray Code]
-+ [#090 Subsets II]
++ [#089 Gray Code](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt089.md)
++ [#090 Subsets II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt090.md)
 
-+ [#118 Pascal's Triangle]
-+ [#119 Pascal's Triangle II]
-+ [#120 Triangle]
++ [#118 Pascal's Triangle](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt118.md)
++ [#119 Pascal's Triangle II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt119.md)
++ [#120 Triangle](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt120.md)
 
-+ [#125 Valid Palindrome]
++ [#125 Valid Palindrome](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt125.md)
 
-+ [#130 Surrounded Regions]
-+ [#131 Palindrome Partitioning]
++ [#130 Surrounded Regions](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt130.md)
++ [#131 Palindrome Partitioning](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt131.md)
 
-+ [#136 Single Number]
-+ [#137 Single Number II]
++ [#136 Single Number](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt136.md)
++ [#137 Single Number II](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt137.md)
 
-+ [#155 Min Stack] 
-+ [#165 Compare Version Numbers]
-+ [#168 Excel Sheet Column Title]
-+ [#169 Majority Element]   
-+ [#171 Excel Sheet Column Number]
-+ [#173 Binary Search Tree Iterator]
++ [#155 Min Stack](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt155.md)
++ [#165 Compare Version Numbers](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt165.md)
++ [#168 Excel Sheet Column Title](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt168.md)
++ [#169 Majority Element](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt169.md)
++ [#171 Excel Sheet Column Number](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt171.md)
++ [#173 Binary Search Tree Iterator](https://github.com/BenjaminLiuPenrose/CodePlayground/blob/master/lt173.md)
